@@ -29,13 +29,13 @@
 		<dependency>
 			<groupId>org.apache.tomcat</groupId>
 			<artifactId>servlet-api</artifactId>
-			<version>9</version>
+			<version>9.0.70</version>
 		</dependency>
 		<!-- Mail Dependency -->
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
-			<version>5</version>
+			<version>5.1.46</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework</groupId>
